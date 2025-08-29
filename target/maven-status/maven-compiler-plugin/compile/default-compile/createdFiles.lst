@@ -1,0 +1,7 @@
+com/bajajfinserv/qualifier/service/SqlQueryService.class
+com/bajajfinserv/qualifier/BajajFinservQualifierApplication.class
+com/bajajfinserv/qualifier/dto/SolutionRequest.class
+com/bajajfinserv/qualifier/runner/ApplicationRunner.class
+com/bajajfinserv/qualifier/service/WebhookService.class
+com/bajajfinserv/qualifier/dto/WebhookResponse.class
+com/bajajfinserv/qualifier/dto/WebhookRequest.class
