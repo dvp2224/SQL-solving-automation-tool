@@ -1,6 +1,6 @@
-# Bajaj Finserv Java Qualifier
+# SpringBoot Application
 
-This repository contains a Spring Boot application developed for the Bajaj Finserv Java Qualifier test. The project demonstrates a robust backend architecture using Java 17, Spring Boot 3, and an H2 in-memory database. It is designed to be modular, maintainable, and ready for both development and production deployment.
+The project demonstrates a robust backend architecture using Java 17, Spring Boot 3, and an H2 in-memory database. It is designed to be modular, maintainable, and ready for both development and production deployment.
 
 ## Table of Contents
 - [Features](#features)
